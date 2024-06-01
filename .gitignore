@@ -1,4 +1,7 @@
 app_blog.db
+alembic.ini
+migrations
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
